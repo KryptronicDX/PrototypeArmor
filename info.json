@@ -1,9 +1,11 @@
 {
-  "name": "FasterStart",
-  "version": "1.1.1",
-  "title": "FasterStart",
-  "author": "magu5026",
+  "name": "prototypearmor",
+  "title": "Prototype Power Armor",
+  "description": "Start your mission with a prototype power armor kit.  This kit includes 25 fusion-powered construction robots with the prototype power armor, as well as a prototype fusion reactor, energy shield, exoseleton, and roboport.\n\n[font=default-small]A change to the original FasterStart mod by magu5026.[/font]",
+  "version": "0.1.0",
+  "author": "Kryptronic",
   "factorio_version": "1.1",
-  "description": "A starter kit with a small modular armor with a small fusion reactor, night vision, exoskeleton, roboport and 25 fusion construction robots.",
-  "dependencies": ["base >= 1.1.1"]
+  "dependencies": [
+        "base >= 1.1.0"
+  ]
 }
